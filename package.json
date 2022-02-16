@@ -1,6 +1,14 @@
 {
-	"author":"Ugwuanyi Ekene",
-	"dependencies": {
-		"express": "^4.14.0"
-	}
+  "author": "Ejene Ugwuanyi",
+  "description": "A project that serves the client request over the internet.",
+  "keywords": [
+    "node js server",
+    "express",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
